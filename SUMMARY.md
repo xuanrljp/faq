@@ -3,6 +3,7 @@
 * [FAQ](README.md)
 * [類別可以修改和刪除嗎?](lei-bie-ke-yi-xiu-gai-he-shan-chu-ma.md)
 * [帳戶可以排序嗎？](zhang-hu-ke-yi-pai-xu-ma.md)
+* [可以自訂增加不同帳戶嗎？](ke-yi-zi-ding-zeng-jia-bu-tong-zhang-hu-ma.md)
 * [可以分兩個帳簿記帳嗎？一個私人用，一個公司用。](ke-yi-fen-liang-ge-zhang-bu-ji-zhang-ma-yi-ge-si-ren-yong-yi-ge-gong-si-yong.md)
 * [搜尋收支時，可以按分類或者金額範圍搜尋嗎？](sou-xun-shou-zhi-shi-ke-yi-an-fen-lei-huo-zhe-jinefan-wei-sou-xun-ma.md)
 * [如何設定帳戶初始金額？](ru-he-she-ding-zhang-hu-chu-shi-jine.md)
