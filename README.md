@@ -26,6 +26,10 @@
 [sou-xun-shou-zhi-shi-ke-yi-an-fen-lei-huo-zhe-jinefan-wei-sou-xun-ma.md](sou-xun-shou-zhi-shi-ke-yi-an-fen-lei-huo-zhe-jinefan-wei-sou-xun-ma.md)
 {% endcontent-ref %}
 
+{% content-ref url="zi-chan-jing-zhi-fu-zhai-he-zong-zi-chan-shi-ru-he-ji-suan-de.md" %}
+[zi-chan-jing-zhi-fu-zhai-he-zong-zi-chan-shi-ru-he-ji-suan-de.md](zi-chan-jing-zhi-fu-zhai-he-zong-zi-chan-shi-ru-he-ji-suan-de.md)
+{% endcontent-ref %}
+
 {% content-ref url="ru-he-she-ding-zhang-hu-chu-shi-jine.md" %}
 [ru-he-she-ding-zhang-hu-chu-shi-jine.md](ru-he-she-ding-zhang-hu-chu-shi-jine.md)
 {% endcontent-ref %}

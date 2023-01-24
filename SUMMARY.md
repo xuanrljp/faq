@@ -6,6 +6,7 @@
 * [可以自訂增加不同帳戶嗎？](ke-yi-zi-ding-zeng-jia-bu-tong-zhang-hu-ma.md)
 * [可以分兩個帳簿記帳嗎？一個私人用，一個公司用。](ke-yi-fen-liang-ge-zhang-bu-ji-zhang-ma-yi-ge-si-ren-yong-yi-ge-gong-si-yong.md)
 * [搜尋收支時，可以按分類或者金額範圍搜尋嗎？](sou-xun-shou-zhi-shi-ke-yi-an-fen-lei-huo-zhe-jinefan-wei-sou-xun-ma.md)
+* [資產淨值、負債和總資產是如何計算的？](zi-chan-jing-zhi-fu-zhai-he-zong-zi-chan-shi-ru-he-ji-suan-de.md)
 * [如何設定帳戶初始金額？](ru-he-she-ding-zhang-hu-chu-shi-jine.md)
 * [如何用外幣記帳？](ru-he-yong-wai-bi-ji-zhang.md)
 * [本位幣已經改為新台幣，但APP始終顯示美元金額](ben-wei-bi-yi-jing-gai-wei-xin-tai-bi-dan-app-shi-zhong-xian-shi-mei-yuan-jin-e.md)
