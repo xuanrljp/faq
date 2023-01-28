@@ -15,6 +15,7 @@
 * [信用卡分期如何設定](xin-yong-ka-fen-qi-ru-he-she-ding.md)
 * [請問支出圓餅圖以外，還有什麼圖表？](qing-wen-zhi-chu-yuan-bing-tu-yi-wai-huan-you-shi-mo-tu-biao.md)
 * [請問可以查看單一類別的花費趨勢？](qing-wen-ke-yi-cha-kan-dan-yi-lei-bie-de-hua-fei-qu-shi.md)
+* [為什麼部分支出資料沒有在圖表裡面？](wei-shi-mo-bu-fen-zhi-chu-zi-liao-mei-you-zai-tu-biao-li-mian.md)
 * [下方類別預算有減少的時候，為什麼上面的總預算不會跟著連動](xia-fang-lei-bie-yu-suan-you-jian-shao-de-shi-hou-wei-shi-mo-shang-mian-de-zong-yu-suan-bu-hui-gen-z.md)
 * [不小心刪除的帳本可以恢復嗎？](bu-xiao-xin-shan-chu-de-zhang-ben-ke-yi-hui-fu-ma.md)
 * [請問帳本如何設定密碼?](qing-wen-zhang-ben-ru-he-she-ding-mi-ma.md)
