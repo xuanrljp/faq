@@ -26,6 +26,10 @@
 [bei-zhu-ke-yi-cong-li-shi-ji-lu-zhong-xuan-ze-shu-ru-ma.md](bei-zhu-ke-yi-cong-li-shi-ji-lu-zhong-xuan-ze-shu-ru-ma.md)
 {% endcontent-ref %}
 
+{% content-ref url="qing-wen-you-zai-ju-yun-duan-fa-piao-hui-ru-gong-neng-ma.md" %}
+[qing-wen-you-zai-ju-yun-duan-fa-piao-hui-ru-gong-neng-ma.md](qing-wen-you-zai-ju-yun-duan-fa-piao-hui-ru-gong-neng-ma.md)
+{% endcontent-ref %}
+
 {% content-ref url="sou-xun-shou-zhi-shi-ke-yi-an-fen-lei-huo-zhe-jinefan-wei-sou-xun-ma.md" %}
 [sou-xun-shou-zhi-shi-ke-yi-an-fen-lei-huo-zhe-jinefan-wei-sou-xun-ma.md](sou-xun-shou-zhi-shi-ke-yi-an-fen-lei-huo-zhe-jinefan-wei-sou-xun-ma.md)
 {% endcontent-ref %}
