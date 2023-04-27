@@ -24,6 +24,7 @@
 * [如何用FaceID等生物辨識鎖？](ru-he-yong-faceid-deng-sheng-wu-bian-shi-suo.md)
 * [圖案鎖忘記了怎麼辦？](tu-an-suo-wang-ji-le-zen-mo-ban.md)
 * [幫朋友代買物品怎麼記帳？](bang-peng-you-dai-mai-wu-pin-zen-mo-ji-zhang.md)
+* [借入應該怎麼記帳？](jie-ru-ying-gai-zen-mo-ji-zhang.md)
 * [換手機時，如何將資料移到新手機上？](huan-shou-ji-shi-ru-he-jiang-zi-liao-yi-dao-xin-shou-ji-shang.md)
 * [如何將資料轉移到Android手機上？](ru-he-jiang-zi-liao-zhuan-yi-dao-android-shou-ji-shang.md)
 * [如何匯出照片？](ru-he-hui-chu-zhao-pian.md)
