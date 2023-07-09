@@ -10,6 +10,10 @@
 [lei-bie-ke-yi-xiu-gai-he-shan-chu-ma.md](lei-bie-ke-yi-xiu-gai-he-shan-chu-ma.md)
 {% endcontent-ref %}
 
+{% content-ref url="lei-bie-neng-fen-da-lei-bie-he-xiao-lei-bie-guan-li-ma.md" %}
+[lei-bie-neng-fen-da-lei-bie-he-xiao-lei-bie-guan-li-ma.md](lei-bie-neng-fen-da-lei-bie-he-xiao-lei-bie-guan-li-ma.md)
+{% endcontent-ref %}
+
 {% content-ref url="zhang-hu-ke-yi-pai-xu-ma.md" %}
 [zhang-hu-ke-yi-pai-xu-ma.md](zhang-hu-ke-yi-pai-xu-ma.md)
 {% endcontent-ref %}
