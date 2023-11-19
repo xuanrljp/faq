@@ -24,6 +24,8 @@
 
 ![list](.gitbook/assets/tw-einv-import.png)
 
+![list](.gitbook/assets/einvoice-retry.PNG)
+
 2. 電子發票掃描
 
 ![list](.gitbook/assets/tw-einv-scan.png)
