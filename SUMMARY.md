@@ -8,6 +8,7 @@
 * [可以分兩個帳簿記帳嗎？一個私人用，一個公司用。](ke-yi-fen-liang-ge-zhang-bu-ji-zhang-ma-yi-ge-si-ren-yong-yi-ge-gong-si-yong.md)
 * [備註可以從歷史記錄中選擇輸入嗎？](bei-zhu-ke-yi-cong-li-shi-ji-lu-zhong-xuan-ze-shu-ru-ma.md)
 * [請問有載具雲端發票匯入功能嗎？](qing-wen-you-zai-ju-yun-duan-fa-piao-hui-ru-gong-neng-ma.md)
+* [電子發票紀錄取得失敗,怎麼辦？](dian-zi-fa-piao-ji-lu-qu-de-shi-bai-zen-mo-ban.md)
 * [搜尋收支時，可以按分類或者金額範圍搜尋嗎？](sou-xun-shou-zhi-shi-ke-yi-an-fen-lei-huo-zhe-jinefan-wei-sou-xun-ma.md)
 * [資產淨值、負債和總資產是如何計算的？](zi-chan-jing-zhi-fu-zhai-he-zong-zi-chan-shi-ru-he-ji-suan-de.md)
 * [如何設定帳戶初始金額？](ru-he-she-ding-zhang-hu-chu-shi-jine.md)
