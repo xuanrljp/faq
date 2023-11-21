@@ -6,6 +6,12 @@
 **開發者這邊暫時無法解決這個問題， 建議大家多刷新幾次，或者等待一段時間再試試看。**
 
 **給您帶來諸多不便， 還望見諒😢**
+
+
+
+<mark style="color:blue;">**電子發票紀錄取得失敗時的應對方法**</mark>
+
+[dian-zi-fa-piao-ji-lu-qu-de-shi-bai-zen-mo-ban.md](dian-zi-fa-piao-ji-lu-qu-de-shi-bai-zen-mo-ban.md "mention")
 {% endhint %}
 
 雲端發票功能目前還在公開測試中, 僅對一部分使用者開放。&#x20;
