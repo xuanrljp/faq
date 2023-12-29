@@ -1,17 +1,13 @@
 # 請問有載具雲端發票匯入功能嗎？
 
 {% hint style="warning" %}
-**近期因『財政部電子發票整合平台』開放給民間開發者的api伺服器一直忙碌異常中, 以至於雲端發票資料常常無法抓取到。**
+<mark style="color:red;">**非常抱歉地通知您，**</mark>
 
-**開發者這邊暫時無法解決這個問題， 建議大家多刷新幾次，或者等待一段時間再試試看。**
+<mark style="color:red;">**由於政府電子發票系統近期進行了升級，「天天記帳」APP中的電子發票功能目前暫時無法使用。 對於這次服務中斷所帶來的不便，我們深感歉意。**</mark>
 
-**給您帶來諸多不便， 還望見諒😢**
+<mark style="color:red;">**我們會盡快調查並解決這個問題。 如果恢復服務，我們會再次通知您。**</mark>
 
-
-
-<mark style="color:blue;">**電子發票紀錄取得失敗時的應對方法**</mark>
-
-[dian-zi-fa-piao-ji-lu-qu-de-shi-bai-zen-mo-ban.md](dian-zi-fa-piao-ji-lu-qu-de-shi-bai-zen-mo-ban.md "mention")
+<mark style="color:red;">**天天記帳敬上。**</mark>
 {% endhint %}
 
 雲端發票功能目前還在公開測試中, 僅對一部分使用者開放。&#x20;
