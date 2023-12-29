@@ -8,6 +8,8 @@
 <mark style="color:red;">**我們會盡快調查並解決這個問題。 如果恢復服務，我們會再次通知您。**</mark>
 
 <mark style="color:red;">**天天記帳敬上。**</mark>
+
+<mark style="color:red;">2023/12/29</mark>
 {% endhint %}
 
 雲端發票功能目前還在公開測試中, 僅對一部分使用者開放。&#x20;
